@@ -59,6 +59,15 @@ cd frontend
 npm install
 npm run dev   # or npm run start
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/img1.png)
+
+### 📈 Trends Page
+![Trends Page](./screenshots/img2e.png)
+
+
 
 
 
