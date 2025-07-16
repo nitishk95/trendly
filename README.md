@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # trendly
 =======
 # 🧠 Trendly
@@ -12,6 +12,71 @@ trendly/
 ├── backend/ # Express.js + MongoDB API for trends
 ├── frontend/ # React frontend (Next.js or Vite)
 └── README.md # This file
+
+
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+<img src="./screenshots/img1.png" width="700" alt="Home Page Screenshot" />
+
+---
+
+### 📈 Trends Page (with filters)
+
+<img src="./screenshots/img2.png" width="700" alt="Trends Page Screenshot" />
+
+---
+
+### 📊 Trend Score Chart
+
+<img src="./screenshots/img3.png" width="700" alt="Chart Screenshot" />
+
+---
+
+### 🔍 Filtered by Reddit
+
+<img src="./screenshots/img4.png" width="700" alt="Filtered Reddit Screenshot" />
+
+---
+
+### 🔍 Filtered by Hacker News
+
+<img src="./screenshots/img5.png" width="700" alt="Filtered Hacker News Screenshot" />
+
+---
+
+## 🚀 Features
+
+- 🔥 Fetches trending posts from Reddit and Hacker News
+- 💾 Stores trends in MongoDB
+- 📊 Displays posts and charts in a modern UI
+- 🗂 Filter by source (Reddit, Hacker News, etc.)
+- 📈 Line chart for trend scores
+
+---
+
+## 🧩 Tech Stack
+
+| Layer      | Stack                            |
+|------------|----------------------------------|
+| Frontend   | React (with Tailwind, Recharts)  |
+| Backend    | Node.js + Express                |
+| Database   | MongoDB (via Mongoose)           |
+
+---
+
+## 🔧 Setup
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/your-username/trendly.git
+cd trendly
+
 
 
 ---
