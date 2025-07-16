@@ -9,9 +9,9 @@ Trendly is a full-stack web application that fetches and displays trending posts
 
 ## 📁 Project Structure
 trendly/
-├── backend/ # Express.js + MongoDB API for trends
-├── frontend/ # React frontend (Next.js or Vite)
-└── README.md # This file
+ backend/ 
+ frontend/
+ README.md 
 
 
 
